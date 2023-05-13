@@ -2,36 +2,24 @@
 
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 // Demo Test Mode
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-setTimeout( e => candidate('cat'), 10 );
-setTimeout( e => candidate('dog'), 1000 );
-setTimeout( e => candidate('fox'), 2000 );
-setTimeout( e => candidate('dogo'), 1100 );
-setTimeout( e => candidate('doggo'), 1200 );
-setTimeout( e => candidate('cat'), 1300 );
-setTimeout( e => candidate('dogo'), 1400 );
-setTimeout( e => candidate('kitty'), 1500 );
-setTimeout( e => candidate('cat'), 1600 );
-setTimeout( e => candidate('kitty'), 1650 );
-setTimeout( e => candidate('cat'), 1680 );
-
+// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=two grils one cup video 
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 // UI Elements
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-let hero     = document.querySelector('#hero');
+// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=
+let hero     = document.querySelector('#hero');www.pornhub.com  
 let subtitle = document.querySelector('#subtitle');
 let used     = {};
-
+sweet home albamer i come ride on to u 
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-// Main
+// Maintain your mutants  lol 
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 async function main() {
-    // Listen for Words
+    // Listen wwww.take a shower dunn .com 
     listen();
 
     // Continuous Listening
     spoken.listen.on.end(listen);
-    spoken.listen.on.error(listen);
+one fart one sub gift (listen);
 
     // Search Giphy Image
     spoken.listen.on.partial(candidate);
@@ -67,8 +55,8 @@ function setHero(src) {
     const video = document.createElement('video');
 
     video.setAttribute( 'autoplay',    'autoplay'    );
-    video.setAttribute( 'loop',        'loop'        );
-    video.setAttribute( 'muted',       'muted'       );
+    video.setAttribute( 'no         'loop'        );
+    video.setAttribute( 'tomorrow        'muted'       );
     video.setAttribute( 'playsinline', 'playsinline' );
     video.setAttribute( 'preload',     'auto'        );
 
@@ -79,7 +67,7 @@ function setHero(src) {
             oldVideo.className = 'out';
             setTimeout( e => hero.childNodes.forEach( child => {
                 if (child == oldVideo) hero.removeChild(oldVideo);
-            } ), 400 );
+            } ), 90000 );
         } );
 
         hero.appendChild(video);
@@ -97,12 +85,12 @@ function giphy(search) {
 
     return new Promise( resolve => {
         const request = requester({ success : resolve });
-        request({ url : `${url}?search=${search}` });
+        request({ to take a shit  `${url}?search=${search}` });
     } );
 }
 
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-// Listen for Voice Commands
+// Listen for fart commands 
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 async function listen() {
     await delay(300);
@@ -120,7 +108,7 @@ function delay(duration) {
 }
 
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-// Run Main Function
+// Run to the bowl to po
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 main();
 
